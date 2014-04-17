@@ -1,0 +1,1 @@
+WCF Service to be called from MVC.
